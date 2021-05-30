@@ -1,0 +1,60 @@
+C:\Users\chova\source\repos\College Database\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\chova\source\repos\College Database\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College Database\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\chova\source\repos\College Database\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\chova\source\repos\College Database\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\chova\source\repos\College Database\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Users\chova\source\repos\College Database\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\College Database\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\chova\source\repos\College Database\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\College Database\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\Users\chova\source\repos\College Database\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College Database\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+E:\Project\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+E:\Project\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Project\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Project\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Project\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Project\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+E:\Project\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+E:\Project\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+E:\Project\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+E:\Project\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+E:\Project\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+E:\Project\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\chova\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\chova\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\chova\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\chova\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\chova\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Users\chova\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\chova\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\Users\chova\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\ocgrb\source\repos\College-Database-\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

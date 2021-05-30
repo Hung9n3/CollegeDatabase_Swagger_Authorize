@@ -1,0 +1,70 @@
+C:\Users\chova\source\repos\College Database\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\chova\source\repos\College Database\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\chova\source\repos\College Database\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\chova\source\repos\College Database\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College Database\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\chova\source\repos\College Database\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\chova\source\repos\College Database\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\chova\source\repos\College Database\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\chova\source\repos\College Database\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\College Database\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\chova\source\repos\College Database\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\College Database\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\chova\source\repos\College Database\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\chova\source\repos\College Database\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+E:\Project\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\Project\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\Project\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\Project\College-Database-\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Project\College-Database-\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Project\College-Database-\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Project\College-Database-\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Project\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+E:\Project\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\Project\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\Project\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+E:\Project\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\Project\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\Project\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\chova\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\chova\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\chova\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\chova\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\chova\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\chova\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\chova\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\chova\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\chova\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\chova\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\chova\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\ocgrb\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\ocgrb\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\ocgrb\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\ocgrb\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\ocgrb\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ocgrb\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\ocgrb\source\repos\College-Database-\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ocgrb\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\ocgrb\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\ocgrb\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\ocgrb\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ocgrb\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\ocgrb\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\ocgrb\source\repos\College-Database-\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\chova\source\repos\College-Database--main\College-Database--main\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
